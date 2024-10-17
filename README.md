@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding, gaming and gym
 - 🌱 I’m currently learning python, javascript and video editing
 - 📫 How to reach me instagram, linkedn
-- 😄 Pronouns: ...
 - ⚡ Fun fact: No fun facts yett :)
 
 <!---
