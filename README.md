@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arthurmorgan19
+- 👋 Hi, I’m Jay Vispute(@arthurmorgan19)
 - 👀 I’m interested in coding, gaming and gym
 - 🌱 I’m currently learning python, javascript and video editing
 - 📫 How to reach me instagram, linkedn
